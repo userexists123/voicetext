@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "neon-operator-466218-a8",
+  "private_key_id": "ab8658136bdea8948f72c6858c938fdc5e0c7023",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCibZRYJEKXMuLq\nNnYz5MQbdr16KtJSLIcfnSl1fbHFtqYu2cj2yqqLeTSOEYshPZpLOYjTqezx5dJa\nFh5giygEKcrh2Kjr2GpFucizbfE8Cfkywznf1h7+gB0EnBI2/5AHANnbZpitKw9d\nF4r8Vm/XhiOU+mfDQDgVbnNzLSsaNnTSAml+/PjYECX3waZufRNfb11GYFEi4vQh\nRljeJaBoFen7NoI3+JD+Xav7ZaFSfU4EzIDIyzZ3bFFCdcEMChSc/zpQsXZtFvqZ\ndO4ZkI7BhNL9lB6PLFBKcZ8U03W+TbYTvvXNJE3O6EZDG+V0MYFLLes9uR/CjPmT\nJU69PGBvAgMBAAECggEAS0eKJ0e27SiSboaLRgXStf/UVVifXaJxhb9rRZ7Z046R\neslJEMhhPn8QUn/jAabxacfimGb7ACnJ0iLKNWiJRVSxSPcHYzdMGcC/OhnMYk0l\nB9ffbNRqTP3HdSl4b7EGaZiFX+AvBqMcXcLZkZXmA/eRaiycBqwu0g/8xfa7MUwp\nrM2ftZDetmsq+9E7N7hk5hzrP0Pgfm9lZwKBm4XVjIXaSiomn+mm8LthG6ni7f32\nGtShlM1mtqfbsp49rgYC+yeogmwDwcwkDAInT3pxp2rx+1ne7gekTygmXMGz1aFZ\n9Wvc3sInbSwNMg6C1klpTj1RhDC1UWiFdOIKuWy7kQKBgQDj4akB90rz+I3+fceS\nasmXtvv3kBQmxgrYxDtZbv0ZPl6IHDSHq0bKn4PxcgnGZPJ2AgwRvWA83Qtn8XXP\n2wNqNmO1sB5EnQfggj/e4sOrpwqQenfdEtxCKcuz1YqDDRrWcSVoMb5zdV6m/3s5\nmtYK7OfJT4TMa08ckTpe70WsGwKBgQC2eF7T8PFQHBd9vWaxYQFWjXK6e2QwJE7u\nDLjvXqTEs/7Ui7/pTglSCliXmd6sdJstTE6ut2nd1wGz6TKk4TrYTuKN5czgR4FS\nsY+NDRUf5/Qak5joTG90vklUgjAdBkfLxYt+CxBN9RxfNV6WEE60lq/+WbryJSU6\niFGp57D6PQKBgQDBw4X+WvRLgEPUacTBNbXWH8wdU1AfK/PbHvfL8riYt1SP7VOp\nLDSUY5BAQ5QWMo2LU/BJQTpMZjOlnUVsiLBdpoOf4HHMK62f84A1l6GDGhS8hrXW\nr4vDYmCHuAH/rqvsPObusqVa7SifXMq9T2/CeHAZ11h2rKPnCYGVaWRXkwKBgCku\ne4Br5ZqF7ItVXsLzuMCXBeiuhosS9rllJ6vmeVtnoEDKFZMLKLFaYmo8sPPNEWSk\nzzFBdeQ6bUj0fZiWuJgvHZSW46lOmhJWvqY/6J+d0wrYeu8aqSD4/UXUaBV04GlN\n+VCGILTnd/LI8cL+hTTeuXO3Pqj91ywhrgShpOClAoGAdbfMMEV5FPoILM0lef/B\nXFyCB/iHndoRJr4AxpIu6HoBSj5ssBXSNuesgFA1/Y3jqCq6nGdE3Kv/y5FHtb2g\nN8ZUgdx2WBFfTaVsbNvPugu/4umdlJoh/lO0xDdNamxYIcUGvTG86aM/p4Fvpl3T\nKAGX6qr1VrxcZOjVO4afBTQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "speech-recognition@neon-operator-466218-a8.iam.gserviceaccount.com",
+  "client_id": "114137351696289231831",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speech-recognition%40neon-operator-466218-a8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

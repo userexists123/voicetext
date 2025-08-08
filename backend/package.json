@@ -1,0 +1,20 @@
+{
+  "name": "mic-to-text-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@google-cloud/speech": "^7.2.0",
+    "@google-cloud/text-to-speech": "^6.2.0",
+    "@google-cloud/translate": "^9.2.0",
+    "axios": "^1.11.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
+    "form-data": "^4.0.4",
+    "gtts": "^0.2.1",
+    "multer": "^1.4.5-lts.1"
+  }
+}
